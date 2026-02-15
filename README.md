@@ -2,7 +2,7 @@
 Jupyter Notebook implementation for detecting faces in an image and clustering (K-Means) them into two groups based on color features (hue and saturation). A template face image is also added to determine which cluster it belongs to.
 
 Aim
-The aim of this project is to detect faces in an image and group them based on visual similarity. The project focuses on extracting basic colour features from each detected face and using them to cluster similar faces into groups. It also includes checking where a new template face fits among these groups and visualizing the results through graphs. 
+# The aim of this project is to detect faces in an image and group them based on visual similarity. The project focuses on extracting basic colour features from each detected face and using them to cluster similar faces into groups. It also includes checking where a new template face fits among these groups and visualizing the results through graphs. 
 The output includes a scatter plot that shows the clustered faces, the centroids of each cluster, and the template face placed on the graph for visual verification and comparison.
 
 Methodology
