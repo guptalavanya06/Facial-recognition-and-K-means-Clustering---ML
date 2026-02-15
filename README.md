@@ -6,16 +6,11 @@ The aim of this project is to detect faces in an image and group them based on v
 The output includes a scatter plot that shows the clustered faces, the centroids of each cluster, and the template face placed on the graph for visual verification and comparison.
 
 # Methodology
-Face Detection
-•	Detect faces using Haar Cascade in OpenCV and draw rectangles around detected faces
-Feature Extraction
-•	Convert faces to HSV color space and calculate average hue and saturation
-Clustering
-•	Apply K-Means clustering (k = 2) to group similar faces together
-Template Classification
-•	Extract features from a template face and predict which cluster it belongs to
-Visualization
-•	Plot hue vs saturation scatter graph, showing clusters, centroids and the template face on the graph. 
+- Face Detection: Detect faces using Haar Cascade in OpenCV and draw rectangles around detected faces
+- Feature Extraction: Convert faces to HSV color space and calculate average hue and saturation
+- Clustering: Apply K-Means clustering (k = 2) to group similar faces together
+- Template Classification: Extract features from a template face and predict which cluster it belongs to
+- Visualization: Plot hue vs saturation scatter graph, showing clusters, centroids and the template face on the graph. 
 
 # Key Findings
 •	Faces with similar visual color features are grouped into the same cluster.
