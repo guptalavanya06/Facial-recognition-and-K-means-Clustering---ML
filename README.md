@@ -22,8 +22,7 @@ The output includes a scatter plot that shows the clustered faces, the centroids
 # Conclusion
 This project demonstrates that simple feature extraction and clustering methods can be used to organize facial images based on similarity. The results highlight how basic machine learning techniques can reveal patterns in visual data and support comparison between images. Such approaches can serve as a foundation for more advanced image analysis and recognition systems.
 
-# Output Images:
-![Logo]("C:\Users\LAVANYA\Desktop\Images\2.png")
+
 
 
 
