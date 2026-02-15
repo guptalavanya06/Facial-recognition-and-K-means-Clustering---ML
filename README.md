@@ -13,11 +13,11 @@ The output includes a scatter plot that shows the clustered faces, the centroids
 - Visualization: Plot hue vs saturation scatter graph, showing clusters, centroids and the template face on the graph. 
 
 # Key Findings
-•	Faces with similar visual color features are grouped into the same cluster.
-•	The clustering method successfully separates faces into meaningful groups.
-•	The scatter plot clearly shows how faces with similar features lie close to each other.
-•	The template face is correctly matched with the most similar cluster.
-•	Visualization makes it easier to understand the clustering results.
+- Faces with similar visual color features are grouped into the same cluster.
+- The clustering method successfully separates faces into meaningful groups.
+- The scatter plot clearly shows how faces with similar features lie close to each other.
+- The template face is correctly matched with the most similar cluster.
+- Visualization makes it easier to understand the clustering results.
 
 # Conclusion
 This project demonstrates that simple feature extraction and clustering methods can be used to organize facial images based on similarity. The results highlight how basic machine learning techniques can reveal patterns in visual data and support comparison between images. Such approaches can serve as a foundation for more advanced image analysis and recognition systems.
